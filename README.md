@@ -70,6 +70,8 @@ https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/
 -------------
 *Dataset*
 
+Amazon food reviews & summaries - https://www.kaggle.com/snap/amazon-fine-food-reviews
+
 legal documents and their summaries - https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports
 
 tagged science articles and summaries - https://www-nlpir.nist.gov/related_projects/tipster_summac/cmp_lg.html
