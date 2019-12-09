@@ -67,6 +67,10 @@ https://smmry.com/
 
 https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/
 
+https://www.aclweb.org/anthology/P02-1040.pdf
+
+https://arxiv.org/pdf/1409.3215.pdf
+
 -------------
 *Dataset*
 
